@@ -1,2 +1,2 @@
 # neo-hello-world
-Basics of creating repositories
+Learning the basics of branches and creating commits
